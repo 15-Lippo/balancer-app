@@ -1,0 +1,25 @@
+{
+  "build": {
+    "environment": {
+      "NODE_VERSION": "16",
+      "NPM_VERSION": "8.19.3",
+      "NETLIFY_USE_YARN": "false",
+      "NETLIFY_LEGACY_INSTALL": "true",
+      "USE_NPM_INSTALL": "true",
+      "NODE_OPTIONS": "--max_old_space_size=4096"
+    },
+    "processing": {
+      "css": {
+        "bundle": true,
+        "minify": true
+      },
+      "js": {
+        "bundle": true,
+        "minify": true
+      },
+      "html": {
+        "pretty_urls": true
+      }
+    }
+  }
+} 
