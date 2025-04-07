@@ -64,8 +64,13 @@
     "tokenAdmin": "0xf302f9F50958c5593770FDf4d4812309fF77414f",
     "veDelegationProxy": "0x6f5a2eE11E7a772AeB5114A20d0D7c0ff61EB8A0",
     "veBALHelpers": "0x8e5698dc4897dc12243c8642e77b4f21349db97c",
+<<<<<<< HEAD
     "feeDistributor": "0xA56DE791254Db5f95F5Ad7fa0D2B9cfd87595e1a",
     "feeDistributorDeprecated": "0xA56DE791254Db5f95F5Ad7fa0D2B9cfd87595e1a",
+=======
+    "feeDistributor": "0xD3cf852898b21fc233251427c2DC93d3d604F3BB",
+    "feeDistributorDeprecated": "0x26743984e3357eFC59f2fd6C1aFDC310335a61c9",
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
     "faucet": ""
   },
   "keys": {

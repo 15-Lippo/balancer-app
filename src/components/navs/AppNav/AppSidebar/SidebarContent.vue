@@ -11,7 +11,10 @@ import { sleep } from '@/lib/utils';
 import useWeb3 from '@/services/web3/useWeb3';
 import useNetwork from '@/composables/useNetwork';
 import { Goals, trackGoal } from '@/composables/useFathom';
+<<<<<<< HEAD
 import { EXTERNAL_LINKS } from '@/constants/links';
+=======
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
 
 /**
  * PROPS & EMITS
@@ -47,6 +50,7 @@ const navLinks = [
     path: `/${networkSlug}/portfolio`,
     goal: Goals.ClickNavPortfolio,
   },
+<<<<<<< HEAD
   { label: t('cryptoCharts.title'), path: `/${networkSlug}/crypto-charts`, goal: Goals.ClickNavPools },
 ];
 
@@ -60,10 +64,26 @@ const ecosystemLinks = [
   {
     label: t('grants'),
     url: EXTERNAL_LINKS.LisproCoin.Grants,
+=======
+  { label: 'veBAL', path: `/${networkSlug}/vebal`, goal: Goals.ClickNavVebal },
+];
+
+const ecosystemLinks = [
+  { label: t('build'), url: 'https://balancer.fi/build' },
+  { label: t('blog'), url: 'https://medium.com/balancer-protocol' },
+  { label: t('docs'), url: 'https://docs.balancer.fi/' },
+  { label: t('governance'), url: 'https://vote.balancer.fi/#/' },
+  { label: t('analytics'), url: 'https://dune.xyz/balancerlabs' },
+  { label: t('forum'), url: 'https://forum.balancer.fi/' },
+  {
+    label: t('grants'),
+    url: 'http://grants.balancer.community',
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
   },
 ];
 
 const socialLinks = [
+<<<<<<< HEAD
   { component: 'TwitterIcon', url: EXTERNAL_LINKS.LisproCoin.Social.Twitter },
   { component: 'DiscordIcon', url: EXTERNAL_LINKS.LisproCoin.Social.Discord },
   { component: 'MediumIcon', url: EXTERNAL_LINKS.LisproCoin.Social.Medium },
@@ -72,6 +92,16 @@ const socialLinks = [
     url: EXTERNAL_LINKS.LisproCoin.Social.Youtube,
   },
   { component: 'GithubIcon', url: EXTERNAL_LINKS.LisproCoin.Social.Github },
+=======
+  { component: 'TwitterIcon', url: 'https://twitter.com/BalancerLabs' },
+  { component: 'DiscordIcon', url: 'https://discord.balancer.fi/' },
+  { component: 'MediumIcon', url: 'https://medium.com/balancer-protocol' },
+  {
+    component: 'YoutubeIcon',
+    url: 'https://www.youtube.com/channel/UCBRHug6Hu3nmbxwVMt8x_Ow',
+  },
+  { component: 'GithubIcon', url: 'https://github.com/balancer-labs/' },
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
 ];
 
 /**
@@ -147,7 +177,11 @@ watch(blockNumber, async () => {
         <component :is="link.component" />
       </BalLink>
       <BalLink
+<<<<<<< HEAD
         href="mailto:contact@lisprocoin.fi"
+=======
+        href="mailto:contact@balancer.finance"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         class="social-link"
         noStyle
       >
@@ -166,7 +200,11 @@ watch(blockNumber, async () => {
         </span>
       </div>
       <BalLink
+<<<<<<< HEAD
         :href="`https://github.com/lisprocoin/frontend-v2/releases/tag/${version}`"
+=======
+        :href="`https://github.com/balancer-labs/frontend-v2/releases/tag/${version}`"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         class="flex items-center mt-2 text-gray-300"
         external
         noStyle

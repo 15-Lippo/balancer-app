@@ -11,6 +11,11 @@ const CookiesPolicyPage = () =>
   import(
     /* webpackChunkName: "CookiesPolicyPage" */ '@/pages/cookies-policy.vue'
   );
+<<<<<<< HEAD
+=======
+const GetVeBalPage = () =>
+  import(/* webpackChunkName: "GetVeBalPage" */ '@/pages/get-vebal.vue');
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
 const HomePage = () =>
   import(
     /* webpackChunkName: "HomePage" */ /* webpackPrefetch: true */ '@/pages/index.vue'
@@ -39,10 +44,19 @@ const TradePage = () =>
   import(
     /* webpackChunkName: "TradePage" */ /* webpackPrefetch: true */ '@/pages/trade.vue'
   );
+<<<<<<< HEAD
 const FaucetPage = () =>
   import(/* webpackChunkName: "FaucetPage" */ '@/pages/faucet.vue');
 const CryptoChartsPage = () =>
   import(/* webpackChunkName: "CryptoChartsPage" */ '@/pages/crypto-charts.vue');
+=======
+const UnlockVeBalPage = () =>
+  import(/* webpackChunkName: "UnlockVeBalPage" */ '@/pages/unlock-vebal.vue');
+const VeBalPage = () =>
+  import(/* webpackChunkName: "VeBalPage" */ '@/pages/vebal.vue');
+const FaucetPage = () =>
+  import(/* webpackChunkName: "FaucetPage" */ '@/pages/faucet.vue');
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
 
 const PortfolioPage = () =>
   import(
@@ -124,9 +138,27 @@ const routes: RouteRecordRaw[] = [
     meta: { layout: 'FocusedLayout' },
   },
   {
+<<<<<<< HEAD
     path: '/:networkSlug/crypto-charts',
     name: 'crypto-charts',
     component: CryptoChartsPage,
+=======
+    path: '/:networkSlug/vebal',
+    name: 'vebal',
+    component: VeBalPage,
+  },
+  {
+    path: '/:networkSlug/get-vebal',
+    name: 'get-vebal',
+    component: GetVeBalPage,
+    meta: { layout: 'FocusedLayout' },
+  },
+  {
+    path: '/:networkSlug/unlock',
+    name: 'unlock',
+    component: UnlockVeBalPage,
+    meta: { layout: 'FocusedLayout' },
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
   },
   {
     path: '/:networkSlug/claim',

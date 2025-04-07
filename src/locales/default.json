@@ -92,8 +92,8 @@
   "buy": "Buy",
   "build": "Build",
   "blog": "Blog",
-  "boostedPool": "Balancer Boosted pool",
-  "byConnectingWallet": "By connecting a wallet, I agree to Balancer Foundation's",
+  "boostedPool": "Lisprocoin Boosted pool",
+  "byConnectingWallet": "By connecting a wallet, I agree to Lisprocoin Foundation's",
   "cancel": "Cancel",
   "cancelling": "Cancelling",
   "change": "Change",
@@ -103,7 +103,7 @@
   "claimHero": {
     "title": "Claim liquidity incentives",
     "legacyTitle": "Claim legacy incentives",
-    "description": "Balancer Protocol liquidity incentives are directed to pools by veBAL voters. Stake in these pools to earn incentives. Boost with veBAL for up to 2.5x extra on Mainnet pools.",
+    "description": "Lisprocoin Protocol liquidity incentives are directed to pools by veBAL voters. Stake in these pools to earn incentives. Boost with veBAL for up to 2.5x extra on Mainnet pools.",
     "legacyDescription": "Liquidity mining incentive systems before the launch of ve8020-tokenomics have been deprecated. If you provided liquidity before this change and have outstanding incentives you can claim them here.",
     "tipLabel": {
       "addLiquidity": "Add liquidity",
@@ -151,7 +151,7 @@
   "copperLaunchPromo": {
     "buttonLabel": "View this auction on Copper",
     "description": "Copper is the platform for FLAs—a simple crowdfunding mechanism that enables projects and ideas from across the world to raise money from individuals without barriers to entry.",
-    "poweredByBalancer": "Copper is built on Balancer V2 and uses Liquidity Bootstrapping Pools to power its FLAs",
+    "poweredByBalancer": "Copper is built on Lisprocoin V2 and uses Liquidity Bootstrapping Pools to power its FLAs",
     "title": "A Copper fair launch auction pool (FLA)"
   },
   "continueAnyway": "Continue anyway",
@@ -1498,17 +1498,5 @@
     }
   },
   "poolActivity": "Pool activity",
-  "legacyClaims": "Legacy claims",
-  "cryptoCharts": {
-    "title": "Grafici Criptovalute",
-    "description": "Analizza le tendenze del mercato delle criptovalute e monitora le prestazioni di LisproCoin rispetto ad altri asset digitali.",
-    "marketCap": "Market Cap (in Miliardi USD)",
-    "marketInsights": "Analisi di Mercato",
-    "marketInsightsDesc1": "LisproCoin ha mostrato una crescita eccezionale nell'ultimo anno, con un aumento del valore di oltre il 700%. Questo progresso è il risultato della nostra tecnologia avanzata e dell'adozione crescente nel settore finanziario.",
-    "marketInsightsDesc2": "Con una capitalizzazione di mercato in rapida crescita, LisproCoin si sta affermando come uno dei principali progetti nel settore delle criptovalute, offrendo soluzioni innovative per la finanza decentralizzata.",
-    "marketInsightsDesc3": "Il nostro team continua a lavorare su nuove funzionalità e miglioramenti che porteranno ulteriore valore al progetto. Rimani aggiornato per scoprire i prossimi sviluppi e opportunità di LisproCoin."
-  },
-  "homePageChartLabel": "LisproCoin Price Chart",
-  "cryptoNav": "Grafici Crypto",
-  "vebal": "Grafici Crypto"
+  "legacyClaims": "Legacy claims"
 }

@@ -96,7 +96,11 @@ export default defineConfig(({ mode }) => {
       },
     },
     optimizeDeps: {
+<<<<<<< HEAD
       include: ['tailwind.config.js', 'color', 'mersenne-twister', 'isomorphic-fetch'],
+=======
+      include: ['tailwind.config.js', 'color', 'mersenne-twister'],
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
     },
     server: {
       port: 8080,
@@ -118,7 +122,10 @@ export default defineConfig(({ mode }) => {
       sourcemap: true,
       minify: true,
       rollupOptions: {
+<<<<<<< HEAD
         external: ['isomorphic-fetch'],
+=======
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         plugins: [
           envConfig.VITE_BUILD_ANALIZE ? analyze({ summaryOnly: false }) : null,
           envConfig.VITE_BUILD_VISUALIZE ? visualizer({ open: true }) : null,

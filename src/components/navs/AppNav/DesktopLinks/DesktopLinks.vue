@@ -62,11 +62,19 @@ function isActive(page: string): boolean {
       {{ $t('portfolio') }}
     </DesktopLinkItem>
     <DesktopLinkItem
+<<<<<<< HEAD
       :to="{ name: 'crypto-charts', params: { networkSlug } }"
       :active="isActive('crypto-charts')"
       @click="trackGoal(Goals.ClickNavPools)"
     >
       {{ $t('cryptoCharts.title') }}
+=======
+      :to="{ name: 'vebal', params: { networkSlug } }"
+      :active="isActive('vebal')"
+      @click="trackGoal(Goals.ClickNavVebal)"
+    >
+      veBAL
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
     </DesktopLinkItem>
   </div>
 </template>

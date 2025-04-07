@@ -4,8 +4,11 @@ import { TOKEN_LIST_MAP } from '@/constants/tokenlists';
 const fs = require('fs');
 const path = require('path');
 
+<<<<<<< HEAD
 const UNISWAP_TOKEN_LIST_URL = 'https://raw.githubusercontent.com/Uniswap/token-lists/master/src/tokens/mainnet.json';
 
+=======
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
 if (process.env.NODE_ENV === 'development') {
   require('dotenv').config({
     path: path.resolve(__dirname, '../../../.env.development'),

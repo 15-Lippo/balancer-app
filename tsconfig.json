@@ -16,11 +16,18 @@
     "baseUrl": ".",
     "noImplicitAny": false,
     "resolveJsonModule": true,
+<<<<<<< HEAD
     "types": ["node", "vitest/globals", "vite/client", "jest"],
     "paths": {
       "@/*": ["src/*"],
       "@tests/*": ["tests/*"],
       "@types/*": ["types/*"],
+=======
+    "types": ["node", "vitest/globals", "vite/client"],
+    "paths": {
+      "@/*": ["src/*"],
+      "@tests/*": ["tests/*"],
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
       // Stubbing react types
       // https://github.com/johnsoncodehk/volar/discussions/592#discussioncomment-2163786
       "react": ["src/types/empty-stub.d.ts"],
@@ -32,6 +39,7 @@
   "include": [
     "components.d.ts",
     "src/**/*.ts",
+<<<<<<< HEAD
     "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
@@ -39,6 +47,12 @@
     "tests/**/*.ts",
     "tests/**/*.tsx",
     "types/**/*.d.ts"
+=======
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "tests/**/*.ts",
+    "tests/**/*.tsx"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
   ],
   "exclude": ["node_modules", "dist"],
   "files": ["node_modules/jest-extended/types/index.d.ts"]

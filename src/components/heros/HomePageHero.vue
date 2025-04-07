@@ -26,14 +26,22 @@ const classes = computed(() => ({
 <template>
   <AppHero :class="classes">
     <h1 class="headline" v-text="$t('defiLiquidityPools')" />
+<<<<<<< HEAD
     <p class="mt-2 text-xl text-white" v-text="$t('builtOnLisproCoin')" />
+=======
+    <p class="mt-2 text-xl text-white" v-text="$t('builtOnBalancer')" />
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
     <template v-if="!isWalletReady && !isWalletConnecting">
       <div class="flex justify-center mt-6">
         <HeroConnectWalletButton class="mr-4" />
 
         <BalBtn
           tag="a"
+<<<<<<< HEAD
           :href="EXTERNAL_LINKS.LisproCoin.Home"
+=======
+          :href="EXTERNAL_LINKS.Balancer.Home"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
           target="_blank"
           rel="noreferrer"
           color="white"

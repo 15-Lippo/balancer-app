@@ -59,8 +59,13 @@
     "veBAL": "",
     "veDelegationProxy": "",
     "veBALHelpers": "",
+<<<<<<< HEAD
     "feeDistributor": "0xA56DE791254Db5f95F5Ad7fa0D2B9cfd87595e1a",
     "feeDistributorDeprecated": "0xA56DE791254Db5f95F5Ad7fa0D2B9cfd87595e1a",
+=======
+    "feeDistributor": "",
+    "feeDistributorDeprecated": "",
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
     "faucet": "",
     "gaugeRewardsHelper": "0xaEb406b0E430BF5Ea2Dc0B9Fe62E4E53f74B3a33"
   },

@@ -50,26 +50,44 @@
             <p>
               <router-link
                 class="text-lg font-medium link"
+<<<<<<< HEAD
                 :to="{ name: 'crypto-charts', params: { networkSlug } }"
               >
                 {{ $t('cryptoCharts.title') }}
+=======
+                :to="{ name: 'vebal', params: { networkSlug } }"
+              >
+                {{ $t('vebal') }}
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               </router-link>
             </p>
           </div>
 
           <div class="flex flex-wrap md:order-3 gap-3 md:gap-4">
             <BalLink
+<<<<<<< HEAD
               :href="EXTERNAL_LINKS.LisproCoin.Home"
+=======
+              :href="EXTERNAL_LINKS.Balancer.Home"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               external
               noStyle
               class="group link link--external"
             >
+<<<<<<< HEAD
               {{ $t('ecosystem') }}
+=======
+              {{ $t('about') }}
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               <BalIcon name="arrow-up-right" size="sm" class="arrow" />
             </BalLink>
 
             <BalLink
+<<<<<<< HEAD
               :href="EXTERNAL_LINKS.LisproCoin.Docs"
+=======
+              :href="EXTERNAL_LINKS.Balancer.Docs"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               external
               noStyle
               class="group link link--external"
@@ -79,7 +97,11 @@
             </BalLink>
 
             <BalLink
+<<<<<<< HEAD
               :href="EXTERNAL_LINKS.LisproCoin.Forum"
+=======
+              :href="EXTERNAL_LINKS.Balancer.Forum"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               external
               noStyle
               class="group link link--external"
@@ -89,7 +111,11 @@
             </BalLink>
 
             <BalLink
+<<<<<<< HEAD
               :href="EXTERNAL_LINKS.LisproCoin.Vote"
+=======
+              :href="EXTERNAL_LINKS.Balancer.Vote"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               external
               noStyle
               class="group link link--external"
@@ -99,7 +125,11 @@
             </BalLink>
 
             <BalLink
+<<<<<<< HEAD
               :href="EXTERNAL_LINKS.LisproCoin.Grants"
+=======
+              :href="EXTERNAL_LINKS.Balancer.Grants"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               external
               noStyle
               class="group link link--external"
@@ -109,7 +139,11 @@
             </BalLink>
 
             <BalLink
+<<<<<<< HEAD
               :href="EXTERNAL_LINKS.LisproCoin.BugBounty"
+=======
+              :href="EXTERNAL_LINKS.Balancer.BugBounty"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               external
               noStyle
               class="group link link--external"
@@ -119,7 +153,11 @@
             </BalLink>
 
             <BalLink
+<<<<<<< HEAD
               :href="EXTERNAL_LINKS.LisproCoin.Analytics"
+=======
+              :href="EXTERNAL_LINKS.Balancer.Analytics"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
               external
               noStyle
               class="group link link--external"
@@ -134,49 +172,77 @@
             <div class="flex lg:flex-col md:justify-end">
               <div class="flex gap-3 md:justify-end">
                 <BalLink
+<<<<<<< HEAD
                   :href="EXTERNAL_LINKS.LisproCoin.Social.Twitter"
+=======
+                  :href="EXTERNAL_LINKS.Balancer.Social.Twitter"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
                   external
                   noStyle
                 >
                   <IconTwitter />
                 </BalLink>
                 <BalLink
+<<<<<<< HEAD
                   :href="EXTERNAL_LINKS.LisproCoin.Social.Discord"
+=======
+                  :href="EXTERNAL_LINKS.Balancer.Social.Discord"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
                   external
                   noStyle
                 >
                   <IconDiscord />
                 </BalLink>
                 <BalLink
+<<<<<<< HEAD
                   :href="EXTERNAL_LINKS.LisproCoin.Social.Medium"
+=======
+                  :href="EXTERNAL_LINKS.Balancer.Social.Medium"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
                   external
                   noStyle
                 >
                   <IconMedium />
                 </BalLink>
                 <BalLink
+<<<<<<< HEAD
                   :href="EXTERNAL_LINKS.LisproCoin.Social.Youtube"
+=======
+                  :href="EXTERNAL_LINKS.Balancer.Social.Youtube"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
                   external
                   noStyle
                 >
                   <IconYoutube />
                 </BalLink>
                 <BalLink
+<<<<<<< HEAD
                   :href="EXTERNAL_LINKS.LisproCoin.Social.Github"
+=======
+                  :href="EXTERNAL_LINKS.Balancer.Social.Github"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
                   external
                   noStyle
                 >
                   <IconGithub />
                 </BalLink>
                 <BalLink
+<<<<<<< HEAD
                   :href="EXTERNAL_LINKS.LisproCoin.Social.Linkedin"
+=======
+                  :href="EXTERNAL_LINKS.Balancer.Social.Linkedin"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
                   external
                   noStyle
                 >
                   <IconLinkedin />
                 </BalLink>
                 <BalLink
+<<<<<<< HEAD
                   :href="EXTERNAL_LINKS.LisproCoin.Social.Mail"
+=======
+                  :href="EXTERNAL_LINKS.Balancer.Social.Mail"
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
                   external
                   noStyle
                 >

@@ -1,6 +1,7 @@
 <template>
   <div class="pb-4">
     <div class="subsection">
+<<<<<<< HEAD
       <h1>LisproCoin Privacy&nbsp;Policy</h1>
       <p><em>Last Updated: August 2022</em></p>
       <p>
@@ -11,6 +12,18 @@
           you. This Privacy Policy applies when you use our website, LisproCoin
           Protocol user-interface or application and other online products
           (collectively, our "UI"), engage with us on social media, or otherwise
+=======
+      <h1>Balancer Privacy&nbsp;Policy</h1>
+      <p><em>Last Updated: August 2022</em></p>
+      <p>
+        <em class="font-medium">
+          This Privacy Policy explains how the Balancer Foundation, its
+          subsidiary, Balancer OpCo Limited (“Balancer Foundation,” “Balancer,”
+          “we,” “our,” or “us”) collects, uses, and discloses information about
+          you. This Privacy Policy applies when you use our website, Balancer
+          Protocol user-interface or application and other online products
+          (collectively, our “UI”), engage with us on social media, or otherwise
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
           interact with us.
         </em>
       </p>
@@ -31,19 +44,32 @@
       <h2>Summary</h2>
       <ul>
         <li>
+<<<<<<< HEAD
           LisproCoin does not typically request, collect or use personal
+=======
+          Balancer does not typically request, collect or use personal
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
           information. With the exception of your wallet address, there is no
           reason for you to provide personal information when you use the UI.
         </li>
         <li>
+<<<<<<< HEAD
           LisproCoin does not and has not stored personal information from users
           of the UI. However, LisproCoin uses third party services including,
+=======
+          Balancer does not and has not stored personal information from users
+          of the UI. However, Balancer uses third party services including,
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
           without limitation, Cloudflare and Fathom Analytics who may collect
           and store certain user information only for use in the provision of
           their services.
         </li>
         <li>
+<<<<<<< HEAD
           LisproCoin does not set any cookies. However, it's possible we may use
+=======
+          Balancer does not set any cookies. However, it’s possible we may use
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
           third party service providers in the future that set cookies.
         </li>
       </ul>
@@ -60,11 +86,19 @@
         customized and this policy reflects that practice.
       </p>
       <p>
+<<<<<<< HEAD
         LisproCoin is not directed to children under the age of 16. If a parent or
         guardian becomes aware that his or her child has provided us with
         personal information without your consent, please contact us at
         <a class="link" href="mailto:privacypolicy@lisprocoin.finance"
           >privacypolicy@lisprocoin.finance</a
+=======
+        Balancer is not directed to children under the age of 16. If a parent or
+        guardian becomes aware that his or her child has provided us with
+        personal information without your consent, please contact us at
+        <a class="link" href="mailto:privacypolicy@balancer.finance"
+          >privacypolicy@balancer.finance</a
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         >. If we become aware that a child under the age of 16 has provided us
         with personal information, we will take reasonable efforts to delete
         such personal information.
@@ -98,7 +132,11 @@
           files stored on your hard drive or in device memory that help us
           improve the UI and your experience, see which areas and features of
           the UI are popular, and count visits. Web beacons (also known as
+<<<<<<< HEAD
           "pixel tags" or "clear GIFs") are electronic images that we use on the
+=======
+          “pixel tags” or “clear GIFs”) are electronic images that we use on the
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
           UI to help deliver cookies, count visits, and understand usage and
           campaign effectiveness. For more information about cookies and how to
           disable them, see our
@@ -121,7 +159,11 @@
       <p>
         We may derive limited information or draw inferences about you based on
         the information we have access to or receive, most importantly, from our
+<<<<<<< HEAD
         service providers. Your wallet and IP address is accessible to LisproCoin
+=======
+        service providers. Your wallet and IP address is accessible to Balancer
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         and its vendor(s). We may make inferences about you based on your wallet
         or IP address.
       </p>
@@ -136,7 +178,11 @@
         the UI. We may also use the information we collect to:
       </p>
       <ul>
+<<<<<<< HEAD
         <li>Ensure proper functioning of LisproCoin and the UI;</li>
+=======
+        <li>Ensure proper functioning of Balancer and the UI;</li>
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         <li>
           Provide services, content, material and other information on the UI;
         </li>
@@ -156,7 +202,11 @@
         <li>
           Detect, investigate, and prevent security incidents and other
           malicious, deceptive, fraudulent, or illegal activity and protect the
+<<<<<<< HEAD
           rights and property of LisproCoin and others;
+=======
+          rights and property of Balancer and others;
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         </li>
         <li>Debug to identify and repair errors in the UI;</li>
         <li>Comply with legal, regulatory and financial obligations;</li>
@@ -176,8 +226,13 @@
 
       <p>
         We do not have access to or share personally identifiable information,
+<<<<<<< HEAD
         other than as described herein, in the normal course of LisproCoin
         business. However, when LisproCoin has access to personal information,
+=======
+        other than as described herein, in the normal course of Balancer
+        business. However, when Balancer has access to personal information,
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         such as your wallet and certain IP addresses, it may share that
         information in the following circumstances or as otherwise described in
         this policy:
@@ -204,7 +259,11 @@
           We may share personal information if we believe that your actions are
           inconsistent with our user agreements or policies, if we believe that
           you have violated the law, or if we believe it is necessary to protect
+<<<<<<< HEAD
           the rights, property, and safety of LisproCoin, the LisproCoin ecosystem,
+=======
+          the rights, property, and safety of Balancer, the Balancer ecosystem,
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
           the public, or others.
         </li>
         <li>
@@ -222,9 +281,15 @@
           may have regarding the sharing of your personal information.
         </li>
         <li>
+<<<<<<< HEAD
           Personal information may be shared between and among LisproCoin and our
           current and future parents, affiliates, and subsidiaries and other
           companies under common control and ownership ("corporate affiliates").
+=======
+          Personal information may be shared between and among Balancer and our
+          current and future parents, affiliates, and subsidiaries and other
+          companies under common control and ownership (“corporate affiliates”).
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
           This information may be used to provide you with offers, services, or
           products that may be of interest to you and provide you with their
           products and services. Any such corporate affiliate may use your
@@ -258,7 +323,11 @@
       </h2>
 
       <p>
+<<<<<<< HEAD
         LisproCoin Foundation is headquartered in the Cayman Islands with a
+=======
+        Balancer Foundation is headquartered in the Cayman Islands with a
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         subsidiary in the British Virgin Islands (BVI). Therefore, we and our
         service providers may transfer your personal information to, or store or
         access it in, jurisdictions that may not provide levels of data
@@ -272,7 +341,11 @@
       <h2>Your Choices</h2>
       <h3>Cookies</h3>
       <p>
+<<<<<<< HEAD
         LisproCoin does not typically use any cookies. It reserves the ability to
+=======
+        Balancer does not typically use any cookies. It reserves the ability to
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         use them to affect the availability and functionality of the UI. For
         more information about cookies and how to disable them, see our
         <router-link :to="{ name: 'cookies-policy' }">
@@ -330,7 +403,11 @@
       </table>
 
       <p>
+<<<<<<< HEAD
         LisproCoin does not "sell" personal information to advertise our products
+=======
+        Balancer does not “sell” personal information to advertise our products
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         to you or otherwise.
       </p>
 
@@ -338,12 +415,21 @@
         Subject to certain limitations, you have the right to (1) request to
         know more about the categories and specific pieces of personal
         information we collect, use, and disclose, and sell, (2) request
+<<<<<<< HEAD
         deletion of your personal information, (3) opt out of any "sales" of
         your personal information that may be occurring, and (4) not be
         discriminated against for exercising these rights. You may make these
         requests by emailing us at
         <a class="link" href="mailto:privacypolicy@lisprocoin.finance"
           >privacypolicy@lisprocoin.finance</a
+=======
+        deletion of your personal information, (3) opt out of any “sales” of
+        your personal information that may be occurring, and (4) not be
+        discriminated against for exercising these rights. You may make these
+        requests by emailing us at
+        <a class="link" href="mailto:privacypolicy@balancer.finance"
+          >privacypolicy@balancer.finance</a
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         >. If we receive your request from an authorized agent, we may ask for
         evidence that you have provided such agent with a power of attorney or
         that the agent otherwise has valid written authority to submit requests
@@ -354,14 +440,22 @@
       <h3>Shine the Light</h3>
 
       <p>
+<<<<<<< HEAD
         LisproCoin does not share such information with third parties for direct
+=======
+        Balancer does not share such information with third parties for direct
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         marketing purposes.
       </p>
 
       <h3>Do Not Track Signals</h3>
 
       <p>
+<<<<<<< HEAD
         Our Services do not respond to "Do Not Track" signals communicated by
+=======
+        Our Services do not respond to “Do Not Track” signals communicated by
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         your browser. We do not knowingly retain or sell tracking information
         collected about your online activity. For more information about Do Not
         Track, please visit
@@ -382,7 +476,11 @@
       <h3>Legal Basis for Processing</h3>
 
       <p>
+<<<<<<< HEAD
         LisproCoin does not typically process user personal data. If LisproCoin
+=======
+        Balancer does not typically process user personal data. If Balancer
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         processes data, such as a wallet address and certain IP addresses, it
         will do so in reliance on the following lawful bases:
       </p>
@@ -412,7 +510,11 @@
         the personal data we hold about you and to receive your data in a
         portable format, the right to ask that your personal data be corrected
         or erased, and the right to object to, or request that we restrict,
+<<<<<<< HEAD
         certain processing. LisproCoin does not typically hold or store such
+=======
+        certain processing. Balancer does not typically hold or store such
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         personal data.
       </p>
     </div>
@@ -422,8 +524,13 @@
       <p>
         If you have any questions about this Privacy Policy, please contact us
         at
+<<<<<<< HEAD
         <a class="link" href="mailto:privacypolicy@lisprocoin.finance"
           >privacypolicy@lisprocoin.finance</a
+=======
+        <a class="link" href="mailto:privacypolicy@balancer.finance"
+          >privacypolicy@balancer.finance</a
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         >.
       </p>
     </div>

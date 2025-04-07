@@ -1,4 +1,5 @@
 export const EXTERNAL_LINKS = {
+<<<<<<< HEAD
   LisproCoin: {
     Home: 'https://lisprocoin.fi',
     Analytics: 'https://dune.xyz/lisprocoin',
@@ -38,6 +39,27 @@ export const EXTERNAL_LINKS = {
       Youtube: 'https://www.youtube.com/channel/UCBRHug6Hu3nmbxwVMt8x_Ow',
     },
     Vote: 'https://vote.lisprocoin.fi/',
+=======
+  Balancer: {
+    Home: 'https://balancer.fi',
+    Analytics: 'https://dune.xyz/balancerlabs',
+    BalForGas:
+      'https://docs.balancer.finance/core-concepts/bal-balancer-governance-token/bal-for-gas',
+    BugBounty: 'https://immunefi.com/bounty/balancer/',
+    Docs: 'https://docs.balancer.fi',
+    Forum: 'https://forum.balancer.finance/',
+    Grants: 'http://grants.balancer.community/',
+    Social: {
+      Discord: 'https://discord.balancer.fi',
+      Github: 'https://github.com/balancer-labs/',
+      Mail: 'mailto:contact@balancer.finance',
+      Medium: 'https://medium.com/balancer-protocol',
+      Linkedin: 'https://www.linkedin.com/company/balancer-labs/',
+      Twitter: 'https://twitter.com/BalancerLabs',
+      Youtube: 'https://www.youtube.com/channel/UCBRHug6Hu3nmbxwVMt8x_Ow',
+    },
+    Vote: 'https://vote.balancer.finance/',
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
   },
   Gauntlet: {
     Home: 'https://gauntlet.network',

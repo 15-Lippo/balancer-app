@@ -1,16 +1,27 @@
 <template>
   <div class="pb-4">
     <div class="subsection">
+<<<<<<< HEAD
       <h1>LisproCoin Cookies&nbsp;Policy</h1>
+=======
+      <h1>Balancer Cookies&nbsp;Policy</h1>
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
       <p><em>Last Updated: June 2022</em></p>
     </div>
     <div class="subsection">
       <h2>Introduction and Scope of Policy</h2>
       <p>
+<<<<<<< HEAD
         This Cookies Policy ("Policy") applies to your interaction with the
         LisproCoin Foundation, its subsidiary, LisproCoin OpCo Limited, and material
         service providers operating under a legal agreement ("LisproCoin
         Foundation," "LisproCoin," "we," "our," or "us").
+=======
+        This Cookies Policy (“Policy”) applies to your interaction with the
+        Balancer Foundation, its subsidiary, Balancer OpCo Limited, and material
+        service providers operating under a legal agreement (“Balancer
+        Foundation,” “Balancer,” “we,” “our,” or “us”).
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
       </p>
     </div>
 
@@ -26,12 +37,21 @@
       <p>
         We do not generally use cookies. We do not intentionally collect
         information to customize your experience on the website or the
+<<<<<<< HEAD
         LisproCoin.fi user interface (UI) to the LisproCoin Protocol. ("Sites" or
         "Site").
       </p>
       <p>
         Industry standards are currently evolving, and we may not separately
         respond to or take any action with respect to a "do not track"
+=======
+        Balancer.fi user interface (UI) to the Balancer Protocol. (“Sites” or
+        “Site”).
+      </p>
+      <p>
+        Industry standards are currently evolving, and we may not separately
+        respond to or take any action with respect to a “do not track”
+>>>>>>> 7487bda51304bd4804ce8be1ca2756ab564febd3
         configuration set in your internet browser.
       </p>
       <p>
