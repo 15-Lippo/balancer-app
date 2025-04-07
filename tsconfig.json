@@ -16,10 +16,11 @@
     "baseUrl": ".",
     "noImplicitAny": false,
     "resolveJsonModule": true,
-    "types": ["node", "vitest/globals", "vite/client"],
+    "types": ["node", "vitest/globals", "vite/client", "jest"],
     "paths": {
       "@/*": ["src/*"],
       "@tests/*": ["tests/*"],
+      "@types/*": ["types/*"],
       // Stubbing react types
       // https://github.com/johnsoncodehk/volar/discussions/592#discussioncomment-2163786
       "react": ["src/types/empty-stub.d.ts"],
@@ -31,10 +32,13 @@
   "include": [
     "components.d.ts",
     "src/**/*.ts",
+    "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
+    "src/**/*.json",
     "tests/**/*.ts",
-    "tests/**/*.tsx"
+    "tests/**/*.tsx",
+    "types/**/*.d.ts"
   ],
   "exclude": ["node_modules", "dist"],
   "files": ["node_modules/jest-extended/types/index.d.ts"]

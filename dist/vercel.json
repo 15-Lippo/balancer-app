@@ -1,0 +1,19 @@
+{
+  "name": "lisprocoin-app",
+  "version": 2,
+  "build": {
+    "env": {
+      "NODE_VERSION": "16.x",
+      "NPM_VERSION": "8.x"
+    }
+  },
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/.*", "dest": "/index.html" }
+  ],
+  "github": {
+    "enabled": true,
+    "silent": false,
+    "repo": "Krustycoin0/ba"
+  }
+} 

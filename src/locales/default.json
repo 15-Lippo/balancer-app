@@ -785,7 +785,7 @@
   "seeMore": "See more",
   "seeOnExplorer": "See on explorer",
   "seePools": "See pools",
-  "seeV1BalancerInvestments": "Want to see your funds on Balancer V1?",
+  "seeV1BalancerInvestments": "Want to see your funds on Lisprocoin V1?",
   "select": "Select",
   "selectToken": "Select token",
   "sell": "Sell",
@@ -799,7 +799,7 @@
     "sentry": "Used for error tracking and performance monitoring."
   },
   "settings": "Settings",
-  "setUpEthereumWallet": "Balancer is a DeFi app on Ethereum. Set up an Ethereum Wallet to swap and provide liquidity here.",
+  "setUpEthereumWallet": "Lisprocoin is a DeFi app on Ethereum. Set up an Ethereum Wallet to swap and provide liquidity here.",
   "singleToken": "Single token",
   "singleTokenMax": "Single token max",
   "slippageTolerance": "Slippage tolerance",

@@ -23,8 +23,8 @@ export default class ConfigService {
     return {
       APP_ENV: import.meta.env.VITE_ENV || 'development',
       NETWORK: networkId.value,
-      APP_DOMAIN: import.meta.env.VITE_DOMAIN || 'app.balancer.fi',
-      APP_HOST: import.meta.env.VITE_HOST || 'balancer.fi',
+      APP_DOMAIN: import.meta.env.VITE_DOMAIN || 'app.lisprocoin.fi',
+      APP_HOST: import.meta.env.VITE_HOST || 'lisprocoin.fi',
       IPFS_NODE: import.meta.env.VITE_IPFS_NODE || 'cloudflare-ipfs.com',
       BLOCKNATIVE_DAPP_ID:
         import.meta.env.VITE_BLOCKNATIVE_DAPP_ID || 'MISSING_KEY',
@@ -93,3 +93,5 @@ export default class ConfigService {
 }
 
 export const configService = new ConfigService();
+
+export const FEE_DISTRIBUTOR_ADDRESS = '0xC6927e8e6A8B966fC3cBDfFB639c9db459A8C5D5';

@@ -1,9 +1,11 @@
 import { UseQueryOptions } from 'react-query/types';
-import { computed, reactive } from 'vue';
+import { computed, reactive, ref } from 'vue';
 import { useQuery } from 'vue-query';
+import { getAddress } from '@ethersproject/address';
+import { formatUnits } from '@ethersproject/units';
 
 import QUERY_KEYS from '@/constants/queryKeys';
-import { FeeDistributor } from '@/services/balancer/contracts/contracts/fee-distributor';
+import FeeDistributor from '@/services/balancer/contracts/contracts/fee-distributor.json';
 import { configService } from '@/services/config/config.service';
 import { BalanceMap } from '@/services/token/concerns/balances.concern';
 import useWeb3 from '@/services/web3/useWeb3';
